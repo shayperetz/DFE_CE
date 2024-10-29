@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_75_Mondi_WINE_n_LIC_2100x1320.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>Best_75_Mondi_WINE_n_LIC_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>14.31504716</totalInkConsumption>
+        <FixerConsumption>5.040339111</FixerConsumption>
+        <CyanConsumption>2.57245013</CyanConsumption>
+        <MagentaConsumption>3.407635428</MagentaConsumption>
+        <YellowConsumption>3.758330941</YellowConsumption>
+        <BlackConsumption>4.576630665</BlackConsumption>
+        <BAConsumption>5.040339111</BAConsumption>
+        <CostPerBoard>0.713$</CostPerBoard>
+        <CostPerSQM>0.257$</CostPerSQM>
+        <EstimationTime>165</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

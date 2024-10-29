@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_90_Mondi_BRC_glue_Gorilla_2100x1320.pdf</Path>
+        <TicketTemplate>QA_Mondi_Best_90</TicketTemplate>
+        <FileName>Best_90_Mondi_BRC_glue_Gorilla_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_90lm</PrintMode>
+        <totalInkConsumption>10.79552984</totalInkConsumption>
+        <FixerConsumption>4.654020595</FixerConsumption>
+        <CyanConsumption>0.81952372</CyanConsumption>
+        <MagentaConsumption>3.195932293</MagentaConsumption>
+        <YellowConsumption>5.61780003</YellowConsumption>
+        <BlackConsumption>1.162273793</BlackConsumption>
+        <BAConsumption>4.654020595</BAConsumption>
+        <CostPerBoard>0.565$</CostPerBoard>
+        <CostPerSQM>0.204$</CostPerSQM>
+        <EstimationTime>132</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

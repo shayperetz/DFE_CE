@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_90_Mondi_1000227020-v1_2100x1320.pdf</Path>
+        <TicketTemplate>QA_Mondi_Best_90</TicketTemplate>
+        <FileName>Best_90_Mondi_1000227020-v1_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_90lm</PrintMode>
+        <totalInkConsumption>5.1716873</totalInkConsumption>
+        <FixerConsumption>2.26044287</FixerConsumption>
+        <CyanConsumption>0.729502762</CyanConsumption>
+        <MagentaConsumption>0.371705767</MagentaConsumption>
+        <YellowConsumption>0.326414429</YellowConsumption>
+        <BlackConsumption>3.744064342</BlackConsumption>
+        <BAConsumption>2.26044287</BAConsumption>
+        <CostPerBoard>0.298$</CostPerBoard>
+        <CostPerSQM>0.107$</CostPerSQM>
+        <EstimationTime>146</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_90_Mondi_Wine_1200x1300.pdf</Path>
+        <TicketTemplate>QA_Mondi_STD_90</TicketTemplate>
+        <FileName>STD_90_Mondi_Wine_1200x1300.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>STD_90lm</PrintMode>
+        <totalInkConsumption>6.71822529</totalInkConsumption>
+        <FixerConsumption>1.006352764</FixerConsumption>
+        <CyanConsumption>0.13745325</CyanConsumption>
+        <MagentaConsumption>2.298558854</MagentaConsumption>
+        <YellowConsumption>1.533133143</YellowConsumption>
+        <BlackConsumption>2.749080043</BlackConsumption>
+        <BAConsumption>1.006352764</BAConsumption>
+        <CostPerBoard>0.315$</CostPerBoard>
+        <CostPerSQM>0.202$</CostPerSQM>
+        <EstimationTime>85</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

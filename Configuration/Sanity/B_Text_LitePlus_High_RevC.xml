@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\CE_ IQ Text_1300x1200.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <FileName>CE_ IQ Text_1300x1200.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>2.3796538</totalInkConsumption>
+        <FixerConsumption>0.6589718</FixerConsumption>
+        <CyanConsumption>0.0412053</CyanConsumption>
+        <MagentaConsumption>0.0394912</MagentaConsumption>
+        <YellowConsumption>0.0384024</YellowConsumption>
+        <BlackConsumption>2.2605548</BlackConsumption>
+        <BAConsumption>0.6589718</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

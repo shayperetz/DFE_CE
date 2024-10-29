@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_75_LitePlus_1304274-Mickey_2100x1320.pdf</Path>
+        <!-- <Path>\\15.16.155.92\Jobs\Jobs\CE Test\Jobs\CE Test\Re-test\STD_75_LitePlus_1304274-Mickey_2100x1320.pdf</Path> -->
+        <TicketTemplate>QA_LitePlus_Standard_75</TicketTemplate>
+        <FileName>STD_75_LitePlus_1304274-Mickey_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>STD_75lm</PrintMode>
+        <totalInkConsumption>4.367729203</totalInkConsumption>
+        <FixerConsumption>2.325002034</FixerConsumption>
+        <CyanConsumption>1.296344567</CyanConsumption>
+        <MagentaConsumption>1.184396455</MagentaConsumption>
+        <YellowConsumption>1.157762213</YellowConsumption>
+        <BlackConsumption>0.729225968</BlackConsumption>
+        <BAConsumption>2.325002034</BAConsumption>
+        <CostPerBoard>0.267$</CostPerBoard>
+        <CostPerSQM>0.096$</CostPerSQM>
+        <EstimationTime>142</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

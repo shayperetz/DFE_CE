@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_90_LitePlus_1000016998_2100x1320.pdf</Path>
+        <TicketTemplate>QA_LitePlus_Best_90</TicketTemplate>
+        <FileName>Best_90_LitePlus_1000016998_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_90lm</PrintMode>
+        <totalInkConsumption>3.015920989</totalInkConsumption>
+        <FixerConsumption>0.615652825</FixerConsumption>
+        <CyanConsumption>1.007216528</CyanConsumption>
+        <MagentaConsumption>0.274831458</MagentaConsumption>
+        <YellowConsumption>0.82742711</YellowConsumption>
+        <BlackConsumption>0.906445893</BlackConsumption>
+        <BAConsumption>0.615652825</BAConsumption>
+        <CostPerBoard>0.183$</CostPerBoard>
+        <CostPerSQM>0.066$</CostPerSQM>
+        <EstimationTime>125</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

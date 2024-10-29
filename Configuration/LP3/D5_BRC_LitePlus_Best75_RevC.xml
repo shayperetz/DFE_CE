@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\QA_BRC_1000x700.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <TicketTemplateCSS>//*[@value=\"QA_Mondi_Standard_75 \"]</TicketTemplateCSS>
+        <FileName>QA_BRC_1000x700.pdf</FileName>
+        <PrintDirection>1000mm</PrintDirection>
+        <xPrintDirection>700mm</xPrintDirection>
+        <PrintMode>STD_75lm</PrintMode>
+        <totalInkConsumption>0.726643524</totalInkConsumption>
+        <FixerConsumption>0.414378076</FixerConsumption>
+        <CyanConsumption>0.223999682</CyanConsumption>
+        <MagentaConsumption>0.204266226</MagentaConsumption>
+        <YellowConsumption>0.125122728</YellowConsumption>
+        <BlackConsumption>0.152954889</BlackConsumption>
+        <BAConsumption>0.414378076</BAConsumption>
+    </Job>
+
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

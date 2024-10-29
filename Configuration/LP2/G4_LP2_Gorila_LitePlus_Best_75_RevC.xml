@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_75_LitePlus_Gorilla_2500_1320.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <FileName>Best_75_LitePlus_Gorilla_2500_1320.pdf</FileName>
+        <PrintDirection>2500mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>27.6962729</totalInkConsumption>
+        <FixerConsumption>5.960777635</FixerConsumption>
+        <CyanConsumption>0.80977381</CyanConsumption>
+        <MagentaConsumption>10.37736441</MagentaConsumption>
+        <YellowConsumption>14.21491601</YellowConsumption>
+        <BlackConsumption>2.29421867</BlackConsumption>
+        <BAConsumption>5.960777635</BAConsumption>
+        <CostPerBoard>1.276$</CostPerBoard>
+        <CostPerSQM>0.387$</CostPerSQM>
+        <EstimationTime>155</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

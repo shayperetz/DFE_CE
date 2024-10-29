@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- TimeOut -->
+    <TimeOut>2000</TimeOut>
+    <TimeOut_SECONDS>2</TimeOut_SECONDS>
+    <TimeOut_waitForRespond>3000</TimeOut_waitForRespond>
+    <!-- WEB -->
+    <PlatformName>web</PlatformName>
+     <BrowserType>Chrome</BrowserType>
+    <!--<BrowserType>firefox</BrowserType> -->
+
+    <!-- <URL>http://15.16.155.181:48000/#!/Login</URL> -->
+    <URL>http://15.16.155.92:48000/#!/InkEstimator</URL>
+</Environment>

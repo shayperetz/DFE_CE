@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_90_Lite_Plus_BRC_glue_Gorilla_2100x1320.pdf</Path>
+        <TicketTemplate>QA_LitePlus_Best_90</TicketTemplate>
+        <FileName>Best_90_Lite_Plus_BRC_glue_Gorilla_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_90lm</PrintMode>
+        <totalInkConsumption>8.343131299</totalInkConsumption>
+        <FixerConsumption>2.70918043</FixerConsumption>
+        <CyanConsumption>0.737591042</CyanConsumption>
+        <MagentaConsumption>3.022063402</MagentaConsumption>
+        <YellowConsumption>3.710702624</YellowConsumption>
+        <BlackConsumption>0.872774231</BlackConsumption>
+        <BAConsumption>2.70918043</BAConsumption>
+        <CostPerBoard>0.433$</CostPerBoard>
+        <CostPerSQM>0.156$</CostPerSQM>
+        <EstimationTime>120</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

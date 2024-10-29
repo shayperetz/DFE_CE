@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <JobNesher1>
+        <Path>C:\CostEstimatorFiles\Jobs\BLM_V111044.pdf</Path>
+        <TicketTemplate>Rev_C_Mondi_High</TicketTemplate>
+        <FileName>BLM_V111044.pdf</FileName>
+        <PrintDirection>919mm</PrintDirection>
+        <xPrintDirection>470mm</xPrintDirection>
+        <PrintMode>High</PrintMode>
+        <totalInkConsumption>2.73ml</totalInkConsumption>
+        <FixerConsumption>0.46ml</FixerConsumption>
+        <CyanConsumption>1.67</CyanConsumption>
+        <MagentaConsumption>0.9151896</MagentaConsumption>
+        <YellowConsumption>0.0576</YellowConsumption>
+        <BlackConsumption>0.17316</BlackConsumption>
+        <BAConsumption>0.42966952</BAConsumption>
+    </JobNesher1>
+
+
+    <Login>
+        <username>admin</username>
+        <password>adm</password>
+    </Login>
+
+    <Login>
+        <failUsername>amin</failUsername>
+        <failPassword>amina</failPassword>
+    </Login>
+
+    <Login>
+        <NoUserName></NoUserName>
+        <NoPassword></NoPassword>
+    </Login>
+
+    <Login>
+        <userUserName>user</userUserName>
+        <userPassword>usr</userPassword>
+    </Login>
+</data>
+

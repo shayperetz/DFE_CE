@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\CE_Wine Varel_1300x1200.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>CE_Wine Varel_1300x1200.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>9.2251096</totalInkConsumption>
+        <FixerConsumption>2.8161413</FixerConsumption>
+        <CyanConsumption>0.2129445</CyanConsumption>
+        <MagentaConsumption>3.7892142</MagentaConsumption>
+        <YellowConsumption>2.1549609</YellowConsumption>
+        <BlackConsumption>3.0679900</BlackConsumption>
+        <BAConsumption>2.8161413</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

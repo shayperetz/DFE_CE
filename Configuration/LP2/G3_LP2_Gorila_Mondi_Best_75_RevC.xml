@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_75_Mondi_Gorilla_2500_1320.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>Best_75_Mondi_Gorilla_2500_1320.pdf</FileName>
+        <PrintDirection>2500mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>36.23777528</totalInkConsumption>
+        <FixerConsumption>12.47987995</FixerConsumption>
+        <CyanConsumption>0.426449403</CyanConsumption>
+        <MagentaConsumption>10.62613289</MagentaConsumption>
+        <YellowConsumption>22.21880971</YellowConsumption>
+        <BlackConsumption>2.946083274</BlackConsumption>
+        <BAConsumption>12.47987995</BAConsumption>
+        <CostPerBoard>1.722$</CostPerBoard>
+        <CostPerSQM>0.522$</CostPerSQM>
+        <EstimationTime>165</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+

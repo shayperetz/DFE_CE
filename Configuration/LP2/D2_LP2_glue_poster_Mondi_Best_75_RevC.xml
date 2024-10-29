@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_75_Mondi_Poster_1200x1300.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>Best_75_Mondi_Poster_1200x1300.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>3.254947245</totalInkConsumption>
+        <FixerConsumption>1.164551245</FixerConsumption>
+        <CyanConsumption>0.85795683</CyanConsumption>
+        <MagentaConsumption>0.229858271</MagentaConsumption>
+        <YellowConsumption>0.221021852</YellowConsumption>
+        <BlackConsumption>1.850018729</BlackConsumption>
+        <BAConsumption>1.164551245</BAConsumption>
+        <CostPerBoard>0.172$</CostPerBoard>
+        <CostPerSQM>0.111$</CostPerSQM>
+        <EstimationTime>85</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

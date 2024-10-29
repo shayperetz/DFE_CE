@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TestsConfiguration>
+    <username>admin</username>
+    <password>adm</password>
+    <EstimationError>0.05</EstimationError>
+    <EstimationTimeTolerance>5</EstimationTimeTolerance>
+    <EstimationTime>283</EstimationTime>
+    <CMYK_Price>38</CMYK_Price>
+</TestsConfiguration>

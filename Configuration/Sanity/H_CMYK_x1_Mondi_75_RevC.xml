@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\800x600_x1CMYK.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>800x600_x1CMYK.pdf</FileName>
+        <PrintDirection>800mm</PrintDirection>
+        <xPrintDirection>600mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>0.4995962</totalInkConsumption>
+        <FixerConsumption>0.1743321</FixerConsumption>
+        <CyanConsumption>0.0756550</CyanConsumption>
+        <MagentaConsumption>0.1808975</MagentaConsumption>
+        <YellowConsumption>0.1292654</YellowConsumption>
+        <BlackConsumption>0.1137783</BlackConsumption>
+        <BAConsumption>0.1743321</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

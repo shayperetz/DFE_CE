@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\CE_ Lic_1300x1200.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>CE_ Lic_1300x1200.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>8.327123614</totalInkConsumption>
+        <FixerConsumption>3.322227009</FixerConsumption>
+        <CyanConsumption>2.023280595</CyanConsumption>
+        <MagentaConsumption>0.31461276</MagentaConsumption>
+        <YellowConsumption>2.477790885</YellowConsumption>
+        <BlackConsumption>2.491139374</BlackConsumption>
+        <BAConsumption>3.322227009</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

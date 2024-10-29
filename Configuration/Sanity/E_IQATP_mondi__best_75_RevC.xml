@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\CE_ IQATP_1300x1200.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <FileName>CE_ IQATP_1300x1200.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>5.79</totalInkConsumption>
+        <FixerConsumption>2.4</FixerConsumption>
+        <CyanConsumption>0.820752519</CyanConsumption>
+        <MagentaConsumption>1.229689313</MagentaConsumption>
+        <YellowConsumption>1.091501614</YellowConsumption>
+        <BlackConsumption>2.654046422</BlackConsumption>
+        <BAConsumption>2.404750773</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

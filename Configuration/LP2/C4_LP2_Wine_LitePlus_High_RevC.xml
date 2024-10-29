@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\Best_75_LitePlus_Wine_1200x1300.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <FileName>Best_75_LitePlus_Wine_1200x1300.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>10.11100136</totalInkConsumption>
+        <FixerConsumption>1.427074419</FixerConsumption>
+        <CyanConsumption>0.449964943</CyanConsumption>
+        <MagentaConsumption>4.232075451</MagentaConsumption>
+        <YellowConsumption>2.620736392</YellowConsumption>
+        <BlackConsumption>2.637233687</BlackConsumption>
+        <BAConsumption>1.427074419</BAConsumption>
+        <CostPerBoard>0.453$</CostPerBoard>
+        <CostPerSQM>0.290$</CostPerSQM>
+        <EstimationTime>95</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

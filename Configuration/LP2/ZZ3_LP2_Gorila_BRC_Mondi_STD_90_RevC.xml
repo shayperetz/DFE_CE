@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_90_Mondi_Gorila_BRC_2100x1320.pdf</Path>
+        <TicketTemplate>QA_Mondi_STD_90</TicketTemplate>
+        <FileName>STD_90_Mondi_Gorila_BRC_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>STD_90lm</PrintMode>
+        <totalInkConsumption>6.993830718</totalInkConsumption>
+        <FixerConsumption>1.966050531</FixerConsumption>
+        <CyanConsumption>0.631030735</CyanConsumption>
+        <MagentaConsumption>2.465904162</MagentaConsumption>
+        <YellowConsumption>2.957371971</YellowConsumption>
+        <BlackConsumption>0.93952385</BlackConsumption>
+        <BAConsumption>1.966050531</BAConsumption>
+        <CostPerBoard>0.364$</CostPerBoard>
+        <CostPerSQM>0.132$</CostPerSQM>
+        <EstimationTime>135</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

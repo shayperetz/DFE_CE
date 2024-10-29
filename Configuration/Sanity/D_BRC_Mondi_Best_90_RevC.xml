@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\QA_BRC_1320_1140.pdf</Path>
+        <TicketTemplate>QA_LitePlus_Best_90</TicketTemplate>
+        <FileName>QA_BRC_1320_1140.pdf</FileName>
+        <PrintDirection>1320mm</PrintDirection>
+        <xPrintDirection>1140mm</xPrintDirection>
+        <PrintMode>Best_90lm</PrintMode>
+        <totalInkConsumption>0.65</totalInkConsumption>
+        <FixerConsumption>0.47</FixerConsumption>
+        <CyanConsumption>0.236120655</CyanConsumption>
+        <MagentaConsumption>0.197995666</MagentaConsumption>
+        <YellowConsumption>0.070117684</YellowConsumption>
+        <BlackConsumption>0.154307441</BlackConsumption>
+        <BAConsumption>0.477513718</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

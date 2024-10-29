@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\2500x1320_Gorila_file.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>2500x1320_Gorila_file.pdf</FileName>
+        <PrintDirection>2500mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>21.93</totalInkConsumption>
+        <FixerConsumption>7.56</FixerConsumption>
+        <CyanConsumption>0.2508</CyanConsumption>
+        <MagentaConsumption>6.437</MagentaConsumption>
+        <YellowConsumption>13.46</YellowConsumption>
+        <BlackConsumption>1.7809</BlackConsumption>
+        <BAConsumption>7.56</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>

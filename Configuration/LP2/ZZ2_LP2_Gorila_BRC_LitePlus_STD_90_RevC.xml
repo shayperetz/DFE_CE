@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_90_LitePlus_Gorila_BRC_2100x1320.pdf</Path>
+        <TicketTemplate>QA_LitePlus_Standard_90</TicketTemplate>
+        <TicketTemplateCSS>//*[@value=\"QA_LitePlus_Standard_90\"]</TicketTemplateCSS>
+        <FileName>STD_90_LitePlus_Gorila_BRC_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>STD_90</PrintMode>
+        <totalInkConsumption>6.881090046</totalInkConsumption>
+        <FixerConsumption>2.41650938</FixerConsumption>
+        <CyanConsumption>0.504791513</CyanConsumption>
+        <MagentaConsumption>2.365084288</MagentaConsumption>
+        <YellowConsumption>3.045603727</YellowConsumption>
+        <BlackConsumption>0.965610518</BlackConsumption>
+        <BAConsumption>2.41650938</BAConsumption>
+        <CostPerBoard>0.366$</CostPerBoard>
+        <CostPerSQM>0.132$</CostPerSQM>
+        <EstimationTime>125</EstimationTime>
+    </Job>
+
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Glue_poster_1200x1200.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>Glue_poster_1200x1200.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1200mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>3.241411604</totalInkConsumption>
+        <FixerConsumption>1.160661359</FixerConsumption>
+        <CyanConsumption>0.853314588</CyanConsumption>
+        <MagentaConsumption>0.266981867</MagentaConsumption>
+        <YellowConsumption>0.255174114</YellowConsumption>
+        <BlackConsumption>1.845641035</BlackConsumption>
+        <BAConsumption>1.160661359</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

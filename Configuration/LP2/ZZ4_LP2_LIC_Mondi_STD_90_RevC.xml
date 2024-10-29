@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_90_Mondi_Lic_1200x1300.pdf</Path>
+        <TicketTemplate>QA_Mondi_STD_90</TicketTemplate>
+        <FileName>STD_90_Mondi_Lic_1200x1300.pdf</FileName>
+        <PrintDirection>1200mm</PrintDirection>
+        <xPrintDirection>1300mm</xPrintDirection>
+        <PrintMode>STD_90lm</PrintMode>
+        <totalInkConsumption>6.357058551</totalInkConsumption>
+        <FixerConsumption>1.42625249</FixerConsumption>
+        <CyanConsumption>2.025334328</CyanConsumption>
+        <MagentaConsumption>0.218101648</MagentaConsumption>
+        <YellowConsumption>1.868453254</YellowConsumption>
+        <BlackConsumption>2.245169322</BlackConsumption>
+        <BAConsumption>1.42625249</BAConsumption>
+        <CostPerBoard>0.307$</CostPerBoard>
+        <CostPerSQM>0.197$</CostPerSQM>
+        <EstimationTime>101</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

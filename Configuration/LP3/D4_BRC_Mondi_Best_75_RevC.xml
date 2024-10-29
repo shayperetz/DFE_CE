@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Glue_QA_BRC_1000x700.pdf</Path>
+        <TicketTemplate>QA_Mondi_High_75</TicketTemplate>
+        <FileName>Glue_QA_BRC_1000x700.pdf</FileName>
+        <PrintDirection>1000mm</PrintDirection>
+        <xPrintDirection>700mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>0.839938099</totalInkConsumption>
+        <FixerConsumption>0.516679689</FixerConsumption>
+        <CyanConsumption>0.277652116</CyanConsumption>
+        <MagentaConsumption>0.23995757</MagentaConsumption>
+        <YellowConsumption>0.108825799</YellowConsumption>
+        <BlackConsumption>0.193202614</BlackConsumption>
+        <BAConsumption>0.516679689</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

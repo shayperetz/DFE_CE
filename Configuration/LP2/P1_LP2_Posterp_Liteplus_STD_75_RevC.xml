@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\Re-test\STD_75_litePlus_Poster_p_2100x1320.pdf</Path>
+        <TicketTemplate>QA_LitePlus_Standard_75</TicketTemplate>
+        <FileName>STD_75_litePlus_Poster_p_2100x1320.pdf</FileName>
+        <PrintDirection>2100mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>STD_75lm</PrintMode>
+        <totalInkConsumption>6.880701821</totalInkConsumption>
+        <FixerConsumption>1.473562781</FixerConsumption>
+        <CyanConsumption>1.74164235</CyanConsumption>
+        <MagentaConsumption>0.812700719</MagentaConsumption>
+        <YellowConsumption>0.748673064</YellowConsumption>
+        <BlackConsumption>3.630481348</BlackConsumption>
+        <BAConsumption>1.473562781</BAConsumption>
+        <CostPerBoard>0.355$</CostPerBoard>
+        <CostPerSQM>0.128$</CostPerSQM>
+        <EstimationTime>147</EstimationTime>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

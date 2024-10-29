@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Job>
+        <Path>C:\CostEstimatorFiles\Jobs\CE Test\2500x1320_Glue_n_LIC.pdf</Path>
+        <TicketTemplate>QA_litePlus_High_75</TicketTemplate>
+        <FileName>2500x1320_Glue_n_LIC.pdf</FileName>
+        <PrintDirection>2500mm</PrintDirection>
+        <xPrintDirection>1320mm</xPrintDirection>
+        <PrintMode>Best_75lm</PrintMode>
+        <totalInkConsumption>11.89415243</totalInkConsumption>
+        <FixerConsumption>2.637977501</FixerConsumption>
+        <CyanConsumption>4.250146968</CyanConsumption>
+        <MagentaConsumption>1.208619789</MagentaConsumption>
+        <YellowConsumption>2.883170039</YellowConsumption>
+        <BlackConsumption>3.531915636</BlackConsumption>
+        <BAConsumption>2.637977501</BAConsumption>
+    </Job>
+    <Login>
+        <username>user</username>
+        <password>usr</password>
+    </Login>
+</data>
+
+
+
+
+
+
